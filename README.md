@@ -1,8 +1,8 @@
-# MovieApp-200327
+# MovieApp-200325
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 ## Información General
 
-- **Creado por:** Eliel Diaz Galindo
+- **Creado por:** Fabiola Bautista Joaquin
 - **Asignatura:** Desarrollo Movil Integral
 - **Grado:** 10
 - **Grupo:** A
