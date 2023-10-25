@@ -1,0 +1,4 @@
+#Fri Oct 20 13:30:24 CST 2023
+base.0=C\:\\Users\\PC-06\\3D Objects\\DMI_PRACTICA12_200325\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
