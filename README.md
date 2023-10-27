@@ -17,7 +17,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto representa una aplicación de muestra desarrollada en Flutter que muestra una página de inicio de la aplicación "MovieApp-200327". La página de inicio contiene los siguientes componentes principales:
+Este proyecto representa una aplicación de muestra desarrollada en Flutter que muestra una página de inicio de la aplicación "MovieApp-200325". La página de inicio contiene los siguientes componentes principales:
 
 ### `Home.dart`
 
@@ -25,7 +25,7 @@ Este archivo contiene la clase `Home`, que representa la página de inicio de la
 
 ### 1. AppBar (Barra de Navegación Superior)
 
-La AppBar muestra el título "MovieApp-200327" en el centro y un icono de búsqueda en la esquina derecha. Aquí se puede realizar la navegación y realizar búsquedas.
+La AppBar muestra el título "MovieApp-200325" en el centro y un icono de búsqueda en la esquina derecha. Aquí se puede realizar la navegación y realizar búsquedas.
 
 ### 2. Menú Lateral (Drawer)
 
