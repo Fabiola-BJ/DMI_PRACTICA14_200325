@@ -14,6 +14,8 @@
  <img src="./assets/dos.png" width="200" alt="Captura de Pantalla 2">
  <img src="./assets/tres.png" width="200" alt="Captura de Pantalla 3">
 </p>
+![image](https://github.com/Fabiola-BJ/DMI_PRACTICA14_200325/assets/84816148/ebed538f-b087-47cd-bb0a-8fab655b113e)
+
 
 ## Descripción del Proyecto
 
